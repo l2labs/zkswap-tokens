@@ -16,6 +16,14 @@
             "chainId": 1,
             "symbol": "ZKS",
             "decimals": 18
+        },
+        {
+            "name": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+            "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "chainId": 1,
+            "symbol": "USDT",
+            "decimals": 6
         }
     ]
 }
