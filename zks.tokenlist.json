@@ -11,6 +11,7 @@
     "tokens": [
         {
             "name": "ZKS",
+            "logoURI": "https://zks.org/logo/256.png",
             "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
             "chainId": 1,
             "symbol": "ZKS",
