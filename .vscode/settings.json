@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "zks.tokenlist.json"
+            ],
+            "url": "https://uniswap.org/tokenlist.schema.json"
+        }
+    ]
+}

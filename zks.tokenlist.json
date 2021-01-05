@@ -1,0 +1,20 @@
+{
+    "name": "ZKSwap Token List",
+    "logoURI": "https://zks.org/logo/256.png",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": ["ZKS", "ZKSwap"],
+    "timestamp": "2021-01-05T04:43:29.077Z",
+    "tokens": [
+        {
+            "name": "ZKS",
+            "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+            "chainId": 1,
+            "symbol": "ZKS",
+            "decimals": 18
+        }
+    ]
+}
