@@ -24,6 +24,14 @@
             "chainId": 1,
             "symbol": "USDT",
             "decimals": 6
+        },
+        {
+            "name": "Robonomics Network",
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7/logo.png",
+            "address": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
+            "chainId": 1,
+            "symbol": "XRT",
+            "decimals": 9
         }
     ]
 }
